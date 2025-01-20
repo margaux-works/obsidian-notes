@@ -5,6 +5,11 @@ The `this` keyword in JavaScript refers to the object it belongs to and is deter
 - **Reusing functions** in different contexts.
 - **Identifying the object** in the current execution context.
 
+- this keyword is created for every execution context
+![[SCR-20250120-mvcc.png]]
+
+&rarr; takes the value of the "owner" of the function in which the this keyword is used
+
 The value of `this` is resolved at **runtime** and depends on how the function is invoked.
 
 ```js
@@ -111,3 +116,9 @@ console.log(newUser.age); // 40
 - **Explicit Binding:** `this` is explicitly set with `call()` or `apply()`.
 - **Constructor Binding:** `this` is the new object created with `new`.
 
+
+
+> arrow function do not get their own `this` keyword
+
+ 
+![[Screenshot 2025-01-20 at 14.32.21.png]]
