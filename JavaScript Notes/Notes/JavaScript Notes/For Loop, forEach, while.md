@@ -149,6 +149,24 @@ toppings.forEach((topping) => console.log(topping));
 
 ---
 
+## While Loop
+
+- with while we can only specify a condition 
+- it will run while this condition is true 
+
+```js
+let rep =1;
+while ( rep <= 10) {
+console.log(`Lifting weight repetition ${rep}`);
+rep+++
+}
+```
+
+
+
+
+
+
 ## **Best Practices**
 - Use meaningful variable names (`index` instead of `i` when appropriate).
 - Avoid infinite loops by ensuring the condition will eventually become `false`.
