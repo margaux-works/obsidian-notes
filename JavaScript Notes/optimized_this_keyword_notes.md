@@ -164,4 +164,3 @@ jonas.greet();
 - **Arrow Functions**: Lexical `this`, no own `this`.
 
 ---
-#thiskeyword 
