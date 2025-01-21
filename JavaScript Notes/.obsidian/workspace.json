@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/JavaScript Notes/z_The Spread Operator (...).md",
+                "file": "Notes/JavaScript Notes/z_Rest Pattern and Parameters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "z_The Spread Operator (...)"
+              "title": "z_Rest Pattern and Parameters"
             }
           }
         ]
@@ -179,6 +179,7 @@
   "active": "f8d8c52c36a3f732",
   "lastOpenFiles": [
     "Notes/JavaScript Notes/z_The Spread Operator (...).md",
+    "Notes/JavaScript Notes/z_Rest Pattern and Parameters.md",
     "Notes/JavaScript Notes/z_Arrays.md",
     "Projects/08_DataTypes.md",
     "Notes/JavaScript Notes/Objects/z_ 01 Objects.md",
@@ -208,7 +209,6 @@
     "assets/SCR-20250118-oxgr.png",
     "Notes/JavaScript Notes/Primitive Types/Strings.md",
     "Notes/JavaScript Notes/4 steps to solve any problem.md",
-    "Notes/JavaScript Notes/Functions/04 Other Methods.md",
     "assets/Screenshot 2025-01-18 at 11.17.25.png",
     "Pasted image 20250118155933.png",
     "Notes/JavaScript Notes/Objects",
