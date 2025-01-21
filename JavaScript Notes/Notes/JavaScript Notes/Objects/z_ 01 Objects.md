@@ -1,3 +1,4 @@
+> part about destructuring objects at the end
 
 - a data structure like arrays
 - properties are key-value
@@ -181,3 +182,32 @@ const meatInventory = {
 };
 ```
 
+
+### Destructuring Objects
+
+used a lot in modern applications
+
+```js
+// destructuring object
+const { name, openingHours, categories } = restaurant;
+console.log(name, openingHours, categories);
+
+// if we want to change the name of the variables
+const {
+  name: restaurantName,
+  openingHours: hours,
+  categories: tags,
+} = restaurant;
+console.log(restaurantName, hours, tags);
+
+// defining default value with "= []" 
+const { menu = [], starterMenu: starters = [] } = restaurant;
+console.log(menu, starters);
+
+// nested objects
+const {
+  fri: { open: o, close: c },
+} = openingHours;
+console.log(o, c);
+
+```

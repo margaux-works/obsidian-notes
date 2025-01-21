@@ -8,6 +8,6 @@ const person {
 };
 ```
 
-See more on [[01 Objects]] and [[02 Object Methods]]
+See more on [[z_ 01 Objects]] and [[02 Object Methods]]
 
 #primitivetypes
