@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "735a6477fbe60130",
@@ -179,12 +178,12 @@
   },
   "active": "f8d8c52c36a3f732",
   "lastOpenFiles": [
+    "Notes/JavaScript Notes/z_The event loop.md",
+    "Notes/JavaScript Notes/Promises.md",
     "Notes/JavaScript Notes/Arrays.md",
     "Notes/JavaScript Notes/Hoisting.md",
     "Notes/JavaScript Notes/Variables.md",
     "Notes/JavaScript Notes/Timers and Intervals.md",
-    "Notes/JavaScript Notes/Promises.md",
-    "Notes/JavaScript Notes/z_The event loop.md",
     "Notes/JavaScript Notes/This keyword.md",
     "Notes/JavaScript Notes/The New Keyword.md",
     "Notes/JavaScript Notes/Bind, Call and Apply.md",
