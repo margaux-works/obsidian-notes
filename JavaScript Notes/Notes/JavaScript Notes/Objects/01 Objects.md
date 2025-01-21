@@ -183,31 +183,44 @@ const meatInventory = {
 ```
 
 
-### Destructuring Objects
+### **Destructuring Objects**
 
-used a lot in modern applications
+Destructuring objects allows you to extract properties from an object and assign them to variables, making your code cleaner and easier to read. It is widely used in modern JavaScript applications.
 
-```js
-// destructuring object
-const { name, openingHours, categories } = restaurant;
-console.log(name, openingHours, categories);
+---
 
-// if we want to change the name of the variables
-const {
-  name: restaurantName,
-  openingHours: hours,
-  categories: tags,
-} = restaurant;
-console.log(restaurantName, hours, tags);
-
-// defining default value with "= []" 
-const { menu = [], starterMenu: starters = [] } = restaurant;
-console.log(menu, starters);
-
-// nested objects
-const {
-  fri: { open: o, close: c },
-} = openingHours;
-console.log(o, c);
-
+#### **Basic Destructuring**
+- Extract values from an object into variables:
+  ```js 
+  const { name, openingHours, categories } = restaurant;
+   console.log(name, openingHours, categories);
 ```
+---
+
+#### **Renaming Variables**
+- Assign object properties to variables with different names using `:`:
+ ```js
+ const { name: restaurantName, openingHours: hours, categories: tags } = restaurant;
+ console.log(restaurantName, hours, tags);
+```
+
+---
+
+#### **Setting Default Values**
+- Provide default values to variables in case a property is `undefined`:
+   ```js
+   const { menu = [], starterMenu: starters = [] } = restaurant;
+   console.log(menu, starters);
+```
+
+---
+
+#### **Nested Destructuring**
+- Extract nested object properties:
+   ```js
+   const {
+    fri: { open: o, close: c },
+   } = openingHours;
+  console.log(o, c);
+```
+
