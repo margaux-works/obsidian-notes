@@ -95,4 +95,5 @@ const [a, b, c] = arr;
    - Useful for creating independent copies of arrays or objects.
 
 ---
-
+#spreadoperator
+#restpattern

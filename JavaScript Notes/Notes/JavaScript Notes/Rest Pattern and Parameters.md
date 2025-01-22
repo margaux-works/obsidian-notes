@@ -80,3 +80,5 @@ console.log(add(1, 2, 3, 4, 5)); // 15
 3. **How does the rest pattern handle skipped elements?**
     
     - It **excludes skipped elements** from the packed collection.
+#spreadoperator
+#restpattern
