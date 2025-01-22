@@ -84,3 +84,12 @@ console.log(rest1); // numGuest: 0
 console.log(rest2); // numGuest: 10
 ```
 if we would have use OR operator || numGuest for rest1 would have been 10 because 0 is falsy 
+
+
+- The `&&=` operator reassigns a variable only if it’s truthy.
+Example
+```js
+for (let i = 0; i < books.length; i++) {
+  books[i].highlighted &&= books[i].thirdParty?.goodreads?.rating >= 4.2;
+}
+```
