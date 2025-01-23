@@ -4,29 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cae3bfe931ee82d6",
+        "id": "8fd7f10becd7b88f",
         "type": "tabs",
         "children": [
           {
-            "id": "f8d8c52c36a3f732",
+            "id": "2dc530faba42d85c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Notes/JavaScript Notes/Primitive Types/Strings.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Strings"
             }
           }
         ]
@@ -60,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pad",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,12 +73,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "735a6477fbe60130",
@@ -195,17 +187,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f8d8c52c36a3f732",
+  "active": "2dc530faba42d85c",
   "lastOpenFiles": [
-    "Notes/JavaScript Notes/Operators.md",
+    "Notes/JavaScript Notes/z_The New Keyword.md",
+    "Projects/08_DataTypes.md",
     "Untitled Kanban.md",
+    "Notes/JavaScript Notes/Operators.md",
     "Notes/JavaScript Notes/The Spread Operator (...).md",
     "z_Object literals.md",
     "Notes/JavaScript Notes/For of loop.md",
     "Notes/JavaScript Notes/Primitive Types/Strings.md",
     "Projects/07_LogicAndFlowControl.md",
     "Notes/JavaScript Notes/For Loop, forEach, while.md",
-    "Projects/08_DataTypes.md",
     "Notes/JavaScript Notes/Objects/01 Objects.md",
     "Notes/JavaScript Notes/Arrays.md",
     "Notes/JavaScript Notes/Functions/04 Other Methods.md",
@@ -214,7 +207,6 @@
     "Notes/JavaScript Notes/This keyword.md",
     "Notes/JavaScript Notes/Bind, Call and Apply.md",
     "Notes/JavaScript Notes/Untitled Kanban.md",
-    "Notes/JavaScript Notes/The New Keyword.md",
     "Notes/JavaScript Notes/The event loop.md",
     "assets/SCR-20250120-mvcc.png",
     "assets/Screenshot 2025-01-20 at 14.32.21.png",

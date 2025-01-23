@@ -21,3 +21,13 @@ myDate instanceof Date;
 ```
 
 functions: ![newKeyword](https://github.com/CsarGomez/beginnersJavascriptNotes/raw/master/img/newKeyword.png)
+
+
+### new Set
+```js
+const uniqueKeywords = [...new Set(keywords)];
+```
+- A `Set` is a data structure in JavaScript that only stores **unique values**. It automatically removes duplicates when you pass an array to it.
+- `new Set(keywords)` creates a Set from the `keywords` array, effectively removing duplicates.
+
+
