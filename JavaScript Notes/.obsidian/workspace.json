@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/JavaScript Notes/Primitive Types/Strings.md",
+                "file": "Notes/JavaScript Notes/Decision Making - Flow Control/z_Switch Statements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strings"
+              "title": "z_Switch Statements"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pad",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,6 +189,8 @@
   },
   "active": "2dc530faba42d85c",
   "lastOpenFiles": [
+    "Projects/07_LogicAndFlowControl.md",
+    "Notes/JavaScript Notes/Primitive Types/Strings.md",
     "Notes/JavaScript Notes/z_The New Keyword.md",
     "Projects/08_DataTypes.md",
     "Untitled Kanban.md",
@@ -196,8 +198,6 @@
     "Notes/JavaScript Notes/The Spread Operator (...).md",
     "z_Object literals.md",
     "Notes/JavaScript Notes/For of loop.md",
-    "Notes/JavaScript Notes/Primitive Types/Strings.md",
-    "Projects/07_LogicAndFlowControl.md",
     "Notes/JavaScript Notes/For Loop, forEach, while.md",
     "Notes/JavaScript Notes/Objects/01 Objects.md",
     "Notes/JavaScript Notes/Arrays.md",
