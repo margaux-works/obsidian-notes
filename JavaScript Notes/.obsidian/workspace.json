@@ -6,7 +6,6 @@
       {
         "id": "8fd7f10becd7b88f",
         "type": "tabs",
-        "dimension": 47.563352826510716,
         "children": [
           {
             "id": "2dc530faba42d85c",
@@ -38,27 +37,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "4d62dadf731d7bce",
-        "type": "tabs",
-        "dimension": 52.436647173489284,
-        "children": [
-          {
-            "id": "7ea3f83a31642c1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/JavaScript Notes/Async/12_AdvancedFlowControl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12_AdvancedFlowControl"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -225,10 +203,12 @@
   },
   "active": "62649401baf48132",
   "lastOpenFiles": [
-    "Notes/JavaScript Notes/Async/Async await.md",
-    "Notes/JavaScript Notes/Async/z_Try and Catch.md",
-    "Notes/JavaScript Notes/Async/12_AdvancedFlowControl.md",
     "Notes/JavaScript Notes/Functions/z_Default parameters.md",
+    "Notes/JavaScript Notes/Problem Solving - steps to solve any problem.md",
+    "Notes/JavaScript Notes/For Loop, forEach, while.md",
+    "Notes/JavaScript Notes/Async/z_Try and Catch.md",
+    "Notes/JavaScript Notes/Async/Async await.md",
+    "Notes/JavaScript Notes/Async/12_AdvancedFlowControl.md",
     "Notes/JavaScript Notes/Async",
     "Notes/JavaScript Notes/Decision Making - Flow Control/z_Switch Statements.md",
     "Projects/07_LogicAndFlowControl.md",
@@ -240,7 +220,6 @@
     "Notes/JavaScript Notes/The Spread Operator (...).md",
     "z_Object literals.md",
     "Notes/JavaScript Notes/For of loop.md",
-    "Notes/JavaScript Notes/For Loop, forEach, while.md",
     "Notes/JavaScript Notes/Objects/01 Objects.md",
     "Notes/JavaScript Notes/Arrays.md",
     "Notes/JavaScript Notes/Functions/04 Other Methods.md",
@@ -254,7 +233,6 @@
     "assets/Screenshot 2025-01-20 at 14.32.21.png",
     "Untitled.canvas",
     "Quick notes.md",
-    "optimized_this_keyword_notes.md",
     "assets/img",
     "assets/SCR-20250118-oxgr.png",
     "assets/Screenshot 2025-01-18 at 11.17.25.png",
