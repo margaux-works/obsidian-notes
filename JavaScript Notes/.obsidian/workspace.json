@@ -6,6 +6,7 @@
       {
         "id": "8fd7f10becd7b88f",
         "type": "tabs",
+        "dimension": 47.563352826510716,
         "children": [
           {
             "id": "2dc530faba42d85c",
@@ -13,12 +14,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/JavaScript Notes/Decision Making - Flow Control/z_Switch Statements.md",
+                "file": "Notes/JavaScript Notes/Functions/z_Default parameters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "z_Switch Statements"
+              "title": "z_Default parameters"
+            }
+          },
+          {
+            "id": "62649401baf48132",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/JavaScript Notes/Async/z_Try and Catch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "z_Try and Catch"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4d62dadf731d7bce",
+        "type": "tabs",
+        "dimension": 52.436647173489284,
+        "children": [
+          {
+            "id": "7ea3f83a31642c1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/JavaScript Notes/Async/12_AdvancedFlowControl.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12_AdvancedFlowControl"
             }
           }
         ]
@@ -73,8 +110,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,8 +223,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2dc530faba42d85c",
+  "active": "62649401baf48132",
   "lastOpenFiles": [
+    "Notes/JavaScript Notes/Async/Async await.md",
+    "Notes/JavaScript Notes/Async/z_Try and Catch.md",
+    "Notes/JavaScript Notes/Async/12_AdvancedFlowControl.md",
+    "Notes/JavaScript Notes/Functions/z_Default parameters.md",
+    "Notes/JavaScript Notes/Async",
+    "Notes/JavaScript Notes/Decision Making - Flow Control/z_Switch Statements.md",
     "Projects/07_LogicAndFlowControl.md",
     "Notes/JavaScript Notes/Primitive Types/Strings.md",
     "Notes/JavaScript Notes/z_The New Keyword.md",
@@ -213,11 +255,6 @@
     "Untitled.canvas",
     "Quick notes.md",
     "optimized_this_keyword_notes.md",
-    "2025-01-18.md",
-    "11_Prototype.md",
-    "Notes/JavaScript Notes/Async await.md",
-    "Notes/JavaScript Notes/Primitive Types/Object.md",
-    "Notes/JavaScript Notes/Promises.md",
     "assets/img",
     "assets/SCR-20250118-oxgr.png",
     "assets/Screenshot 2025-01-18 at 11.17.25.png",
@@ -232,7 +269,6 @@
     "Notes/JavaScript Notes/Events",
     "Notes/JavaScript Notes/Primitive Types",
     "Projects",
-    "Notes/JavaScript Notes",
-    "Notes"
+    "Notes/JavaScript Notes"
   ]
 }
