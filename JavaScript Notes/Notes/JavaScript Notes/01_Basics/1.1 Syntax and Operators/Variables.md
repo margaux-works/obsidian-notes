@@ -1,4 +1,4 @@
- - **var** (_value can be updated_) - old variable keyword
+- **var** (_value can be updated_) - old variable keyword
 - **let** (_value can be updated_) - introduced with ES6 in 2015
 - **const** (_value can't be updated_) - introduced with ES6 in 2015
 
