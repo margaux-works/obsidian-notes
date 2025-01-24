@@ -1,4 +1,4 @@
-Everything in javascript is an object, are use for collections of data or functionality.
+Everything in javascript is an [[Object]], are use for collections of data or functionality.
 
 ```js
 const person {
@@ -11,3 +11,4 @@ const person {
 See more on [[01 Objects]] and [[02 Object Methods]]
 
 #primitivetypes
+#objects 

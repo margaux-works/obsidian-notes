@@ -117,7 +117,3 @@ fetchFromAPI(() => console.log('Data fetched!'));
 1. Closures allow inner functions to access variables from their outer scope.
 2. Even after the outer function has returned, the closure retains access to its lexical environment.
 3. Overuse of closures may lead to performance issues due to retained memory, so use them judiciously.
-
----
-
-These notes provide a thorough understanding of closures, practical examples, and interview-ready explanations. Let me know if you need further clarification or additional examples!

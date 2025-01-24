@@ -145,3 +145,5 @@ console.log(restaurant.order(1, 2)); // ['Bruschetta', 'Risotto']
 3. **Questions to Expect**:
    - How do ES6 features simplify object literal syntax?
    - What are computed property names, and how are they used?
+
+#objects
