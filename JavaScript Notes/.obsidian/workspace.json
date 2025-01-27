@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/JavaScript Notes/01_Basics/1.3 Control Structures/Coercition,  Ternary.md",
-                "mode": "preview",
+                "file": "Notes/JavaScript Notes/01_Basics/1.3 Control Structures/z_If Statement.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coercition,  Ternary"
+              "title": "z_If Statement"
             }
           }
         ]
@@ -186,8 +186,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f73fbec70dc3a759",
+  "active": "9f33cd15e400819b",
   "lastOpenFiles": [
+    "Notes/JavaScript Notes/01_Basics/1.3 Control Structures/Switch Statements.md",
+    "Notes/JavaScript Notes/01_Basics/1.3 Control Structures/z_If Statement.md",
+    "Notes/JavaScript Notes/01_Basics/1.3 Control Structures/For of loop.md",
+    "Notes/JavaScript Notes/01_Basics/1.3 Control Structures/For Loop, forEach, while.md",
+    "Notes/JavaScript Notes/01_Basics/1.3 Control Structures/Coercition,  Ternary.md",
     "Notes/JavaScript Notes/01_Basics/1.2 Functions/Default parameters.md",
     "Notes/JavaScript Notes/01_Basics/1.2 Functions/Closure.md",
     "Notes/JavaScript Notes/01_Basics/1.2 Functions/01 Functions.md",
@@ -209,11 +214,6 @@
     "Notes/JavaScript Notes/02_Advanced Concepts/2.2 This Keyword/Bind, Call and Apply.md",
     "Notes/JavaScript Notes/03_Data Structures/3.2 Objects/02 Object Methods.md",
     "Notes/JavaScript Notes/03_Data Structures/3.2 Objects/01 Objects.md",
-    "Notes/JavaScript Notes/03_Data Structures/3.1 Arrays/Array Methods.md",
-    "Notes/JavaScript Notes/03_Data Structures/3.1 Arrays/Map() Method.md",
-    "Notes/JavaScript Notes/02_Advanced Concepts/2.1 Object-Oriented JavaScript/Object literals.md",
-    "Notes/JavaScript Notes/01_Basics/1.3 Control Structures/Switch Statements.md",
-    "Notes/JavaScript Notes/05_Web APIs/5.1 DOM Manipuation/The DOM.md",
     "Notes/JavaScript Notes/05_Web APIs/5.2 Fetch API",
     "Notes/JavaScript Notes/05_Web APIs/5.1 DOM Manipuation",
     "Notes/JavaScript Notes/03_Data Structures/3.2 Objects",

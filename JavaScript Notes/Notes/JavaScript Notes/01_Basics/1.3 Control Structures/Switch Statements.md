@@ -108,7 +108,3 @@ if (weekday === 'monday') {
 
 4. **Use Cases**:
    - Avoid using switch for complex conditions; use `if...else` instead.
-
----
-
-This optimized note provides a clear understanding of the switch statement, its syntax, advantages, and practical examples to prepare you for coding challenges and interviews.
