@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/JavaScript Notes/01_Basics/1.1 Syntax and Operators/Variables.md",
-                "mode": "source",
+                "file": "Notes/JavaScript Notes/01_Basics/1.2 Functions/Default parameters.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variables"
+              "title": "Default parameters"
             }
           }
         ]
@@ -188,9 +188,12 @@
   },
   "active": "9f33cd15e400819b",
   "lastOpenFiles": [
-    "Notes/JavaScript Notes/01_Basics/1.1 Syntax and Operators/Truthy Falsy.md",
+    "Notes/JavaScript Notes/01_Basics/1.2 Functions/Closure.md",
+    "Notes/JavaScript Notes/01_Basics/1.2 Functions/01 Functions.md",
     "Notes/JavaScript Notes/01_Basics/1.1 Syntax and Operators/Operators.md",
+    "Notes/JavaScript Notes/01_Basics/1.1 Syntax and Operators/Variables.md",
     "Notes/JavaScript Notes/01_Basics/1.1 Syntax and Operators/Hoisting.md",
+    "Notes/JavaScript Notes/01_Basics/1.1 Syntax and Operators/Truthy Falsy.md",
     "Notes/JavaScript Notes/01_Basics/1.0 Primitive Types/Strings.md",
     "Notes/JavaScript Notes/01_Basics/1.0 Primitive Types/Object.md",
     "Notes/JavaScript Notes/01_Basics/1.0 Primitive Types/Numbers.md",
@@ -208,16 +211,13 @@
     "Notes/JavaScript Notes/03_Data Structures/3.1 Arrays/Array Methods.md",
     "Notes/JavaScript Notes/03_Data Structures/3.1 Arrays/Map() Method.md",
     "Notes/JavaScript Notes/02_Advanced Concepts/2.1 Object-Oriented JavaScript/Object literals.md",
-    "Notes/JavaScript Notes/01_Basics/1.2 Functions/Closure.md",
     "Notes/JavaScript Notes/01_Basics/1.2 Functions/Default parameters.md",
     "Notes/JavaScript Notes/01_Basics/1.3 Control Structures/Switch Statements.md",
     "Notes/JavaScript Notes/05_Web APIs/5.1 DOM Manipuation/The DOM.md",
     "Notes/JavaScript Notes/05_Web APIs/5.2 Fetch API",
     "Notes/JavaScript Notes/05_Web APIs/5.1 DOM Manipuation",
-    "Notes/JavaScript Notes/02_Advanced Concepts/2.2 This Keyword/This keyword.md",
     "Notes/JavaScript Notes/03_Data Structures/3.2 Objects",
     "Notes/JavaScript Notes/03_Data Structures/3.1 Arrays",
-    "Notes/JavaScript Notes/01_Basics/1.3 Control Structures/Coercition,  Ternary.md",
     "Notes/JavaScript Notes/02_Advanced Concepts/2.3 Advanced Functions",
     "Notes/JavaScript Notes/02_Advanced Concepts/2.2 This Keyword",
     "Notes/JavaScript Notes/02_Advanced Concepts/2.1 Object-Oriented JavaScript",

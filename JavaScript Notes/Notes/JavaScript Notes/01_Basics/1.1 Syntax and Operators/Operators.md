@@ -150,6 +150,3 @@ console.log(5 == '5'); // true
 3. **Short-Circuiting in Logical Operators**:
    - Logical operators short-circuit as soon as the result is determined, improving performance in conditional expressions.
 
----
-
-This optimized note provides clear explanations, practical examples, and covers important topics for interviews. Let me know if you'd like further refinements!
