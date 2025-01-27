@@ -134,3 +134,5 @@ function planesInLine(n) {
 
 planesInLine(5); // Output: There are 5 planes in line ✈️✈️✈️✈️✈️
 ```
+
+#primitivetypes

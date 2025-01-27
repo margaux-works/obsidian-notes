@@ -4,28 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "88f81676bf5df403",
+        "id": "24a043abfd370578",
         "type": "tabs",
         "children": [
           {
-            "id": "ac56afa342e53cfc",
+            "id": "9f33cd15e400819b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "KANBAN JavaScript Learning.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Notes/JavaScript Notes/01_Basics/1.1 Syntax and Operators/Variables.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "KANBAN JavaScript Learning"
+              "icon": "lucide-file",
+              "title": "Variables"
             }
           }
         ]
@@ -59,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#primitivetypes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,24 +186,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac56afa342e53cfc",
+  "active": "9f33cd15e400819b",
   "lastOpenFiles": [
-    "Quick notes.md",
+    "Notes/JavaScript Notes/01_Basics/1.1 Syntax and Operators/Truthy Falsy.md",
+    "Notes/JavaScript Notes/01_Basics/1.1 Syntax and Operators/Operators.md",
+    "Notes/JavaScript Notes/01_Basics/1.1 Syntax and Operators/Hoisting.md",
+    "Notes/JavaScript Notes/01_Basics/1.0 Primitive Types/Strings.md",
+    "Notes/JavaScript Notes/01_Basics/1.0 Primitive Types/Object.md",
+    "Notes/JavaScript Notes/01_Basics/1.0 Primitive Types/Numbers.md",
+    "Notes/JavaScript Notes/01_Basics/1.0 Primitive Types/Null and Undefined.md",
+    "Notes/JavaScript Notes/01_Basics/1.0 Primitive Types/Booleans and equality.md",
     "Untitled Kanban.md",
     "KANBAN JavaScript Learning.md",
+    "Quick notes.md",
     "Untitled Kanban 3.md",
     "Untitled Kanban 2.md",
     "Untitled Kanban 1.md",
     "Notes/JavaScript Notes/02_Advanced Concepts/2.2 This Keyword/Bind, Call and Apply.md",
     "Notes/JavaScript Notes/03_Data Structures/3.2 Objects/02 Object Methods.md",
     "Notes/JavaScript Notes/03_Data Structures/3.2 Objects/01 Objects.md",
-    "Notes/JavaScript Notes/01_Basics/1.0 Primitive Types/Object.md",
-    "Notes/JavaScript Notes/01_Basics/1.0 Primitive Types/Null and Undefined.md",
     "Notes/JavaScript Notes/03_Data Structures/3.1 Arrays/Array Methods.md",
     "Notes/JavaScript Notes/03_Data Structures/3.1 Arrays/Map() Method.md",
     "Notes/JavaScript Notes/02_Advanced Concepts/2.1 Object-Oriented JavaScript/Object literals.md",
     "Notes/JavaScript Notes/01_Basics/1.2 Functions/Closure.md",
-    "Notes/JavaScript Notes/01_Basics/1.0 Primitive Types/Strings.md",
     "Notes/JavaScript Notes/01_Basics/1.2 Functions/Default parameters.md",
     "Notes/JavaScript Notes/01_Basics/1.3 Control Structures/Switch Statements.md",
     "Notes/JavaScript Notes/05_Web APIs/5.1 DOM Manipuation/The DOM.md",
@@ -218,12 +217,7 @@
     "Notes/JavaScript Notes/02_Advanced Concepts/2.2 This Keyword/This keyword.md",
     "Notes/JavaScript Notes/03_Data Structures/3.2 Objects",
     "Notes/JavaScript Notes/03_Data Structures/3.1 Arrays",
-    "Notes/JavaScript Notes/01_Basics/1.1 Syntax and Operators/Hoisting.md",
-    "Notes/JavaScript Notes/01_Basics/1.1 Syntax and Operators/Truthy Falsy.md",
     "Notes/JavaScript Notes/01_Basics/1.3 Control Structures/Coercition,  Ternary.md",
-    "Notes/JavaScript Notes/Async/12_AdvancedFlowControl.md",
-    "Notes/JavaScript Notes/04_Asynchronous JavaScript/02 Callback Functions.md",
-    "Notes/JavaScript Notes/01_Basics/1.2 Functions/01 Functions.md",
     "Notes/JavaScript Notes/02_Advanced Concepts/2.3 Advanced Functions",
     "Notes/JavaScript Notes/02_Advanced Concepts/2.2 This Keyword",
     "Notes/JavaScript Notes/02_Advanced Concepts/2.1 Object-Oriented JavaScript",
